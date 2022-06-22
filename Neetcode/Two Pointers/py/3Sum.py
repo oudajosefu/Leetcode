@@ -25,6 +25,6 @@ class Solution:
         
 sol = Solution()
 nums = [-1,0,1,2,-1,-4]
-sol.threeSum(nums)
+print(sol.threeSum(nums))
 
 
